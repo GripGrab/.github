@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gripgrab-header.png" alt="GripGrab" width="100%" />
+  <img src="assets/gripgrab-logo-white.png" alt="GripGrab" width="100%" />
 </p>
 
 ## 🚴 Repositories
